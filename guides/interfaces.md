@@ -10,6 +10,72 @@ To get started, go to _Settings > Collections & Fields_, choose the Collection y
 
 Each interface works with one or more field types. For example, the Calendar interface works with the `date` type but not `boolean`. The Text Input is used as a fallback since it works with most field types.
 
+### Text 
+
+* `Code`
+* `Hashed`
+* `Markdown`
+* `Password`
+* `Primary Key`
+* `Slug`
+* `Tags`
+* `Text Input`
+* `Text-Area`
+* `WSYISYG`
+* `Advanced WYSIWYG`
+
+### Numeric
+
+* `Numeric`
+* `Primary Key`
+* `Rating`
+* `Slider`
+* `Sort`
+
+### Date & Time
+
+* `Calendar`
+* `Date`
+* `Time`
+* `Datetime`
+* `Datetime Created`
+* `Datetime Updated`
+
+### Relational
+
+* `One to Many`
+* `Many to One`
+* `Many to Many`
+* `File`
+* `Translation`
+* `Checkboxes Relational`
+
+### Other
+
+* `Activity Icon`
+* `Button Group`
+* `Checkboxes`
+* `Collections`
+* `Color`
+* `Color Picker`
+* `Divider`
+* `Dropdown`
+* `ile Preview`
+* `File Size`
+* `Files`
+* `Group`
+* `Icon`
+* `Language`
+* `Map`
+* `Multi-Select`
+* `Preview`
+* `Radio Buttons`
+* `Toggle Icon`
+* `User`
+* `User Created`
+* `UserRole`
+* `User Updated`
+
 ## Interface Options
 
 Interfaces are highly customizable with options that allow you to tailor them to individual uses. These vary depending on interface complexity, with less-common options hidden within an "Advanced" accordion.
